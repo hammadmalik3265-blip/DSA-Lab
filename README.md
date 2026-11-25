@@ -1,2 +1,1 @@
-# DSA-Lab-Linked-List-
-Single Linked List and Double Linked List implementation in C++
+This repository contain my Data Structure Lab Task in Dev C++ .
